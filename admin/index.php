@@ -84,7 +84,7 @@ tr:nth-child(even){background-color: red}
 	<br/>
 	<br/>
 
-	<a href="logout.php">LOGOUT</a>
+	<h2><b><a href="logout.php">LOGOUT</a></b></h2>
 
 
 </body>
